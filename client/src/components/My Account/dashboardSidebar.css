@@ -1,0 +1,12 @@
+@media screen and (max-width: 600px) {
+    .responsive{
+        display: flex;
+        flex-direction: column;
+    }
+    .sidebar{
+        width: 100% !important;
+    }
+    .main{
+        width: 100% !important;
+    }
+  }
